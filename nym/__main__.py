@@ -3,7 +3,7 @@
 """
 Nym
 
-Find synonymns and antonymns of common words instantly!
+Find synonymns of common words instantly!
 
 Usage:
 
