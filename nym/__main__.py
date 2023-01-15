@@ -13,7 +13,6 @@ nym <word>
 Example:
 
 $ nym fun | head -5
-
 amusing
 enjoyable
 entertaining
